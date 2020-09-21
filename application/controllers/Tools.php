@@ -1,6 +1,6 @@
 <?php
 
-require_once('/var/www/html/sipes/application/database/Seeder.php');
+require_once('C:\laragon\www\ci-craftman\application\database/Seeder.php');
 
 class Tools extends CI_Controller
 {
